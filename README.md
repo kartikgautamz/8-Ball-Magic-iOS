@@ -1,5 +1,6 @@
 
 # Magic 8 Ball
+![Simulator Screenshot - iPhone 15 Pro - 2024-09-10 at 11 22 22](https://github.com/user-attachments/assets/c33ac43b-4e4a-4ac8-bc77-65659ea06373)
 
 ## Our Goal
 
@@ -8,6 +9,7 @@ The objective of this challenge is to apply the skills you learned in the Dicee 
 ## What you will create
 
 We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+
 
 
 
